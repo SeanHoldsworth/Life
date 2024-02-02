@@ -12,3 +12,5 @@ what their names probably suggest; run the compiled binary and build the
 application. Building has been tested as working under both macOS and Linux
 and the generated .jar file tested was also running on Windows. The .jar file
 should be able to be run on any environment supporting the JVM and Swing.
+
+Further documentation about the application can be found in life.pdf.
