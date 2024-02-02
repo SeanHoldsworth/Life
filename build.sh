@@ -1,7 +1,8 @@
 #!/bin/sh
 
 echo "Cleaning build environment..."
-rm -f classes/uk/ac/tees/v8206593/life/*.class
+rm -f LifeApp.jar
+rm -rf classes
 
 echo "Compiling application..."
 javac -d classes -classpath classes -sourcepath src \

@@ -14,3 +14,6 @@ and the generated .jar file tested was also running on Windows. The .jar file
 should be able to be run on any environment supporting the JVM and Swing.
 
 Further documentation about the application can be found in life.pdf.
+
+If you're running on macOS or Linux you should be able to run the .jar file
+directly using "java -jar LifeApp.jar".
